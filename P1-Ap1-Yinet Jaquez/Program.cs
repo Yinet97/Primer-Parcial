@@ -16,7 +16,7 @@ namespace P1_Ap1_Yinet_Jaquez
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new RegistroCliente());
         }
     }
 }
